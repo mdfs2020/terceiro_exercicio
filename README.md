@@ -1,3 +1,5 @@
+Resolução dos Exercícios
+
 # Aula 3 - Funções, escopo e loops
 
 Nesta aula vamos tratar de mais conceitos *importantes* de lógica de programação com JavaScript. Procure ler com calma e testar livremente os exemplos para internalizar bem!
